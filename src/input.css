@@ -7,6 +7,6 @@
     @apply bg-slate-900 text-slate-300;
   }
   h1 {
-    @apply text-5xl;
+    @apply text-5xl text-center;
   }
 }
